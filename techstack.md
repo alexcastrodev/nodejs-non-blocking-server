@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [AlexcastroDev/nodejs-non-blocking-server](https://github.com/AlexcastroDev/nodejs-non-blocking-server)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|5<br/>Tools used|01/02/24 <br/>Report generated|
+|5<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
